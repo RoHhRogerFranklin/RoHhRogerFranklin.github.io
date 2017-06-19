@@ -1,0 +1,102 @@
+/*body*/
+body {
+	background-color: #343434;
+}
+
+/*Nav Bar*/
+.navbar-default {
+	background-color: #8d7e65;
+	border-color: #8d7e65;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+/*Jumbotron*/
+.jumbotron {
+    margin-bottom:0px;
+    padding-left:44%;
+    padding-right:44%;
+    background-color: #343434;
+    height: 300px;
+}
+
+/*Portfolio*/
+#div-portfolio {
+    background-color:#8d7e65;
+    text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    padding-bottom: 10px;
+}
+
+
+/*Tabs*/
+#tab-about {
+	background-color:  #343434;
+	color: #FFFFFF;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+#tab-about a:hover {
+	background-color: #8d7e65;
+	color: #FFFFFF;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+#tab-about a:active {
+	background-color: #343434;
+	color: #FFFFFF;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+#tab-contact {
+	background-color: #8d7e65;
+	color: #FFFFFF;font-family: 'Rubik Mono One', sans-serif;
+}
+
+#tab-contact a:active {
+	background-color: #343434;
+	color: #FFFFFF;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+/*Tab ABOUT CONTEUDO*/
+#sobre-mim{
+	margin-top: 20px;
+	color: #FFFFFF;
+	text-align: justify;
+}
+
+#sobre-mim2 {
+	color: #FFFFFF;
+	text-align: justify;
+	margin-top: 60px;
+}
+
+#img-sobremim {
+	margin-top: 30px;
+}
+
+
+/*Contato*/
+#contact {
+	background-color: #8d7e65;
+	color: #343434;
+	text-decoration: none;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#myModal {
+	color: #000000;
+}
+
+/*Rodape*/
+footer {
+	background-color: #8d7e65;
+	height: 40px;
+}
+
+/*Fonte*/
+h4 {
+	font-family: 'Rubik Mono One', sans-serif;	
+}
+
+
